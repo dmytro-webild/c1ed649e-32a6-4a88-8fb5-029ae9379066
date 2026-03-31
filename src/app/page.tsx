@@ -48,9 +48,9 @@ export default function LandingPage() {
       tag="Agentur für Vertriebsexzellenz"
       mediaItems={[
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/grey-haired-senior-manager-handshaking-greeting-businesswoman_74855-9937.jpg",          imageAlt: "Luxuriöse Vertriebsumgebung"},
+          imageSrc: "http://img.b2bpic.net/free-photo/grey-haired-senior-manager-handshaking-greeting-businesswoman_74855-9937.jpg?_wi=1",          imageAlt: "Luxuriöse Vertriebsumgebung"},
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/grey-haired-senior-manager-handshaking-greeting-businesswoman_74855-9937.jpg",          imageAlt: "Professionelles Closing Team"}
+          imageSrc: "http://img.b2bpic.net/free-photo/grey-haired-senior-manager-handshaking-greeting-businesswoman_74855-9937.jpg?_wi=2",          imageAlt: "Professionelles Closing Team"}
       ]}
       mediaAnimation="blur-reveal"
       rating={5}
@@ -74,7 +74,7 @@ export default function LandingPage() {
         {
           title: "Full-Service Setting",          description: "Vom ersten Call bis zum Unterschriften-reif-Status."},
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/sales-representative-meeting-with-his-manager_1098-2009.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/sales-representative-meeting-with-his-manager_1098-2009.jpg?_wi=1"
       imageAlt="Vertriebsexpertise"
       mediaAnimation="blur-reveal"
     />
@@ -125,9 +125,9 @@ export default function LandingPage() {
       useInvertedBackground={false}
       testimonials={[
         {
-          id: "1",          name: "Max Schmidt",          date: "10.05.2024",          title: "CEO",          quote: "Die Zusammenarbeit mit EG Closing hat unsere Abschlussquoten massiv nach oben skaliert.",          tag: "Kunde",          avatarSrc: "http://img.b2bpic.net/free-photo/friendly-successful-business-lady-wearing-formal-suit-glasses-standing-with-arms-folded-smiling_74855-9932.jpg",          imageSrc: "http://img.b2bpic.net/free-photo/grey-haired-senior-manager-handshaking-greeting-businesswoman_74855-9937.jpg",          imageAlt: "luxury office corporate sales meeting"},
+          id: "1",          name: "Max Schmidt",          date: "10.05.2024",          title: "CEO",          quote: "Die Zusammenarbeit mit EG Closing hat unsere Abschlussquoten massiv nach oben skaliert.",          tag: "Kunde",          avatarSrc: "http://img.b2bpic.net/free-photo/friendly-successful-business-lady-wearing-formal-suit-glasses-standing-with-arms-folded-smiling_74855-9932.jpg",          imageSrc: "http://img.b2bpic.net/free-photo/grey-haired-senior-manager-handshaking-greeting-businesswoman_74855-9937.jpg?_wi=3",          imageAlt: "luxury office corporate sales meeting"},
         {
-          id: "2",          name: "Sarah Müller",          date: "12.06.2024",          title: "Founder",          quote: "Professionell, schnell und absolut ergebnisorientiert.",          tag: "Kunde",          avatarSrc: "http://img.b2bpic.net/free-photo/portrait-bearded-black-man-wool-suit_613910-16027.jpg",          imageSrc: "http://img.b2bpic.net/free-photo/sales-representative-meeting-with-his-manager_1098-2009.jpg",          imageAlt: "professional sales agency consultant"},
+          id: "2",          name: "Sarah Müller",          date: "12.06.2024",          title: "Founder",          quote: "Professionell, schnell und absolut ergebnisorientiert.",          tag: "Kunde",          avatarSrc: "http://img.b2bpic.net/free-photo/portrait-bearded-black-man-wool-suit_613910-16027.jpg",          imageSrc: "http://img.b2bpic.net/free-photo/sales-representative-meeting-with-his-manager_1098-2009.jpg?_wi=2",          imageAlt: "professional sales agency consultant"},
         {
           id: "3",          name: "Dirk Jansen",          date: "05.07.2024",          title: "Direktor",          quote: "Endlich ein Partner, der versteht, wie man High-Ticket-Produkte verkauft.",          tag: "Kunde",          avatarSrc: "http://img.b2bpic.net/free-photo/portrait-young-successful-businesswoman-suit-cross-arms-chest-smile-look-confident-stan_1258-118782.jpg",          imageSrc: "http://img.b2bpic.net/free-photo/businessman-doing-ok-sign-while-holding-growth-chart_23-2148780644.jpg",          imageAlt: "business sales growth graph analytics"},
         {
